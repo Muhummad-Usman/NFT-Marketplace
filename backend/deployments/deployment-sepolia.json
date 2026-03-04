@@ -1,0 +1,10 @@
+{
+  "network": "sepolia",
+  "timestamp": "2025-12-31T10:54:57.021Z",
+  "contracts": {
+    "marketplace": "0x96D052e194287Ef980D45B43234762C8ADD9c89E",
+    "erc721Token": "0xB22679365f71552Fc6448f99891e2e63b04f020E",
+    "erc1155Token": "0x36478ed8b1CacC31ca1709b1013688fdB9c7Be7b"
+  },
+  "deployer": "0x4cb63735566465C26D867191A836B83B931D1820"
+}
